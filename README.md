@@ -1,4 +1,4 @@
-## Hi there, welcome to my Github profile 👋
+## Ei! Bem vindo ao meu pefil no Github 👋
 
 <div>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Sussu2106&show_icons=true&theme=dracula&include_all_comits=true&count_private=true">
@@ -16,9 +16,8 @@
   
 
 
-- 👩🏻‍💻 I’m currently learning JavaScript
-- 💬 Ask me about anything you wanna know!
-- 📫 How to reach me: suelenlanna@hotmail.com
+- 👩🏻‍💻 Atualmente estou aprendendo JavaScrip
+- 📫 Entre em contato: suelenlanna@hotmail.com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sussu2106/Sussu2106/output/github-contribution-grid-snake-dark.svg">
