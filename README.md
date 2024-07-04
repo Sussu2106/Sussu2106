@@ -16,7 +16,7 @@
   
 
 
-- 👩🏻‍💻 Atualmente estou aprendendo JavaScrip
+- 👩🏻‍💻 Atualmente estou aprendendo JavaScript
 - 📫 Entre em contato: suelenlanna@hotmail.com
 
 <picture>
