@@ -1,9 +1,5 @@
 ## Ei! Bem vindo ao meu pefil no Github 👋
 
-<div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Sussu2106&show_icons=true&theme=dracula&include_all_comits=true&count_private=true">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sussu2106&layout=compact&langs_count=16&theme=dracula"> 
-</div>
 
 <div style="display: inline_block" >
 <br>
